@@ -1,0 +1,37 @@
+.marginbody{
+    margin-right: 120px;
+    margin-left: 120px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.bg
+{
+    background-image: url(https://cutewallpaper.org/21/light-blue-background-hd/Artistic-Waves-Blue-Abstract-Powerpoint-Backgrounds-.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.bgcv
+{
+    background-image: url(https://wallpaperset.com/w/full/2/e/3/165622.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.body{
+    font-family: Verdana;
+    color: rgb(0, 0, 255);
+    text-align: justify;
+    padding: 10px;
+    font-size: 18px;
+}
+.btn{
+    background-color: blue;
+}
+.uptombol{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+  }
